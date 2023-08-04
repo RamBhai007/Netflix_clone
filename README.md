@@ -1,5 +1,9 @@
 Netflix clone 
 
+
+## preview Demo (https://rambhai007.github.io/Netflix_clone)
+
+
 # Getting Started with Create React App
 
 ### Available Scripts
